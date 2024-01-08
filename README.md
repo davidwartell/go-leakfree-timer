@@ -1,4 +1,4 @@
-# go-cancel-lock
+# go-leakfree-timer
 
 A timer that helps with the pitfalls of using golang timers in loops.
 
